@@ -1,5 +1,5 @@
 #serviceAccount.json
-Auth_gmail-sender-app-509000.json
+model/Auth_gmail-sender-app.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
