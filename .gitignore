@@ -1,6 +1,6 @@
 #serviceAccount.json
-model/Auth_gmail-sender-app.json
-
+config/Auth_gmail-sender-app.json
+config/.json
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -152,6 +152,7 @@ activemq-data/
 
 # Environments
 .env
+*.env
 **/ .env
 .envrc
 .venv
